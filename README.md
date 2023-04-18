@@ -1,5 +1,10 @@
 # CompatibL Test Log Library
-
+![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/compatibl/testlog/python-package.yml)
+![GitHub](https://img.shields.io/github/license/compatibl/testlog)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/testlog)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/testlog)
+![PyPI](https://img.shields.io/pypi/v/testlog)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/compatibl/testlog/pulls)
 ## Overview
 
 Lightweight support for regression testing with version control of
